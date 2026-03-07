@@ -1,0 +1,14 @@
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ET.exe
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ET.deps.json
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ET.runtimeconfig.json
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ET.pdb
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.AssemblyInfoInputs.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.AssemblyInfo.cs
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.csproj.CoreCompileInputs.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\refint\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.pdb
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.genruntimeconfig.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ref\ET.dll
