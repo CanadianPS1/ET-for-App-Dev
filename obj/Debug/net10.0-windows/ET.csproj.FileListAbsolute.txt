@@ -113,3 +113,4 @@ C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\ETWalkies.wav
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\ETWalkies2.wav
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\MainMenu.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\users.txt

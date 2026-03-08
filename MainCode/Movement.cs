@@ -343,8 +343,11 @@ namespace MainCode{
                     }
                 }else{ 
                     et.Image = etDead;
-                    Thread.Sleep(5000);
-                    CallPostGame();
+                    if(lives == 0){
+                        Thread.Sleep(5000);
+                        CallPostGame();
+                    }
+                    
                 }
                 if(scene.energy <= 0) dead = true;
             }
@@ -839,6 +842,7 @@ namespace MainCode{
             eliotWalkFrame = 1;
             eliotAction = new(() =>  {
                 while(running){
+                    System.Console.WriteLine(lives);
                     if(dead && lives > 0){
                         MoveEliot();
                         if(eliotWalkFrame == 1){
