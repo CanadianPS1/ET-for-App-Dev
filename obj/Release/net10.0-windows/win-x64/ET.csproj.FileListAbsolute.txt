@@ -1,0 +1,115 @@
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ET.exe
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ET.deps.json
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ET.runtimeconfig.json
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ET.pdb
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\DnsClient.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\MongoDB.Bson.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\MongoDB.Driver.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\SharpCompress.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Snappier.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\ZstdSharp.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.csproj.AssemblyReference.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.AssemblyInfoInputs.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.AssemblyInfo.cs
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.csproj.CoreCompileInputs.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.sourcelink.json
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.csproj.Up2Date
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\refint\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.pdb
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ET.genruntimeconfig.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Release\net10.0-windows\win-x64\ref\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\DC.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\EndingHouse.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\Forest.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\InsidePit.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\MainMenue.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\Pits01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\Pits02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\Pits03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Screens\Pits04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\CIA\CIA1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\CIA\CIA2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\CIA\CIA3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\CIA\CIA4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\HatGuy\HG1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\HatGuy\HG2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\HatGuy\HG3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\HatGuy\HG4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\HatGuy\HG5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\Kid\K1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\Kid\K2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\Kid\K3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AI\Kid\K4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AlienThings\AlienThing1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AlienThings\AlienThing2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\AlienThings\AlienThing3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\EtDeath03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETdeath04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath05.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath06.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath07.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETDeath08.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETIdle.ico
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETIdle.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETStretch01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETStretch02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETStretch03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETWalk01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\ETWalk02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\PhonePieces\PhonePiece01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\PhonePieces\PhonePiece02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\PhonePieces\PhonePiece03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip01.png
+C:\Users\spiel\documents\GitHub\et-for-app-dev\bin\Release\net10.0-windows\win-x64\E.T\Ship\ETShip01.png~
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip05.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\E.T\Ship\ETShip06.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\Pixel.ttf
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Arrows\ArrowDown.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Arrows\ArrowGoUp.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Arrows\ArrowLeft.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Arrows\ArrowRight.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Arrows\ArrowUp.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num0.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num6.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num7.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num8.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Numbers\num9.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\CallElliott.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\CallShip.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\Circle.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\Collected1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\Collected2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\Collected3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\EatCandy.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\FindPhonePiece.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\LandingZone.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\SendHumansBack.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Symbols\Smiley.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer6.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\Timer7.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\seperated sprites\UI\Timer\TimerFull.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\EnemyWalk1.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\EnemyWalk2.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\ETwalk.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\ETWalkies.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\ETWalkies2.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\Sounds\MainMenu.wav

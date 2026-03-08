@@ -13,3 +13,21 @@ C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.pdb
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.genruntimeconfig.cache
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ref\ET.dll
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.sourcelink.json
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\DnsClient.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\MongoDB.Bson.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\MongoDB.Driver.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\SharpCompress.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Snappier.dll
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.csproj.AssemblyReference.cache
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.csproj.Up2Date
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\DC.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\EndingHouse.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Forest.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\InsidePit.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\MainMenue.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits04.png

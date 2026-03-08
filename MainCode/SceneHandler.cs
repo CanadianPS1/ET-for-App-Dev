@@ -1,20 +1,22 @@
 using System.Drawing;
+using System.Drawing.Text;
 using System.Windows.Forms;
 using System;
 using System.Xml.Linq;
 namespace MainCode{
     public class SceneHandler{
         public PictureBox  background = new PictureBox();
-        public Image phonePiece1 = Image.FromFile(@"seperated sprites\E.T\PhonePieces\PhonePiece01.png");
-        public Image phonePiece2 = Image.FromFile(@"seperated sprites\E.T\PhonePieces\PhonePiece02.png");
-        public Image phonePiece3 = Image.FromFile(@"seperated sprites\E.T\PhonePieces\PhonePiece03.png");
-        public Image insidePit = Image.FromFile(@"seperated sprites\Screens\InsidePit.png");
-        public Image forest = Image.FromFile(@"seperated sprites\Screens\Forest.png");
-        public Image pit4 = Image.FromFile(@"seperated sprites\Screens\Pits04.png");
-        public Image pit1 = Image.FromFile(@"seperated sprites\Screens\Pits01.png");
-        public Image pit3 = Image.FromFile(@"seperated sprites\Screens\Pits03.png");
-        public Image pit2 = Image.FromFile(@"seperated sprites\Screens\Pits02.png");
-        public Image DC = Image.FromFile(@"seperated sprites\Screens\DC.png");
+        public Image phonePiece1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "PhonePieces", "PhonePiece01.png"));
+        public Image phonePiece2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "PhonePieces", "PhonePiece02.png"));
+        public Image phonePiece3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "PhonePieces", "PhonePiece03.png"));
+        public Image insidePit = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "InsidePit.png"));
+        public Image forest = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "Forest.png"));
+        public Image pit4 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "Pits04.png"));
+        public Image pit1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "Pits01.png"));
+        public Image pit3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "Pits03.png"));
+        public Image pit2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "Pits02.png"));
+        public Image DC = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "DC.png"));
+        public PrivateFontCollection fonts = new PrivateFontCollection();
         public Label[] reesesPeeses = new Label[reesesCount];
         public int[] reesesPeesesMap = new int[reesesCount];
         public int[] reesesPeesesX = new int[reesesCount];
@@ -35,6 +37,7 @@ namespace MainCode{
         public int energy;
         public int reeses;
         public void FirstRun(Form g){
+            fonts.AddFontFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Pixel.ttf"));
             background.Size = new Size(320, 210);
             background.Visible = true;
             game = g;
@@ -42,17 +45,19 @@ namespace MainCode{
             reeses = 0;
             reesesDisplay = new Label{
                 Size = new Size(10, 20),
-                Location = new Point(125,167),
+                Location = new Point(125,170),
                 Visible = true,
+                Font = new Font(fonts.Families[0], 12, GraphicsUnit.Pixel),
                 Text = reeses.ToString(),
                 Parent = background,
                 BackColor = Color.Transparent,
                 ForeColor = Color.Orange,
             };
             energyDisplay = new Label{
-                Size = new Size(34, 20),
-                Location = new Point(140,167),
+                Size = new Size(40, 20),
+                Location = new Point(140,170),
                 Visible = true,
+                Font = new Font(fonts.Families[0], 12, GraphicsUnit.Pixel),
                 Text = energy.ToString(),
                 Parent = background,
                 BackColor = Color.Transparent,

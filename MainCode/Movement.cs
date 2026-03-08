@@ -6,77 +6,78 @@ using System;
 using System.Media;
 namespace MainCode{
     public class Movement : SceneHandler{
-        private Image etIdle = Image.FromFile(@"seperated sprites\E.T\ETIdle.png");
-        private Image etIdleLeft = Image.FromFile(@"seperated sprites\E.T\ETIdle.png");
-        private Image etWalk1 = Image.FromFile(@"seperated sprites\E.T\ETWalk01.png");
-        private Image etWalk1Left = Image.FromFile(@"seperated sprites\E.T\ETWalk01.png");
-        private Image etWalk2 = Image.FromFile(@"seperated sprites\E.T\ETWalk02.png");
-        private Image etWalk2Left = Image.FromFile(@"seperated sprites\E.T\ETWalk02.png");
-        private Image scientistWalk1 = Image.FromFile(@"seperated sprites\AI\HatGuy\HG1.png");
-        private Image scientistWalk1Left = Image.FromFile(@"seperated sprites\AI\HatGuy\HG1.png");
-        private Image scientistWalk2 = Image.FromFile(@"seperated sprites\AI\HatGuy\HG2.png");
-        private Image scientistWalk2Left = Image.FromFile(@"seperated sprites\AI\HatGuy\HG2.png");
-        private Image scientistWalk3 = Image.FromFile(@"seperated sprites\AI\HatGuy\HG3.png");
-        private Image scientistWalk3Left = Image.FromFile(@"seperated sprites\AI\HatGuy\HG3.png");
-        private Image scientistWalk4 = Image.FromFile(@"seperated sprites\AI\HatGuy\HG4.png");
-        private Image scientistWalk4Left = Image.FromFile(@"seperated sprites\AI\HatGuy\HG4.png");
-        private Image scientistWalk5 = Image.FromFile(@"seperated sprites\AI\HatGuy\HG5.png");
-        private Image scientistWalk5Left = Image.FromFile(@"seperated sprites\AI\HatGuy\HG5.png");
-        private Image ciaWalk1 = Image.FromFile(@"seperated sprites\AI\CIA\CIA1.png");
-        private Image ciaWalk1Left = Image.FromFile(@"seperated sprites\AI\CIA\CIA1.png");
-        private Image ciaWalk2 = Image.FromFile(@"seperated sprites\AI\CIA\CIA2.png");
-        private Image ciaWalk2Left = Image.FromFile(@"seperated sprites\AI\CIA\CIA2.png");
-        private Image ciaWalk3 = Image.FromFile(@"seperated sprites\AI\CIA\CIA3.png");
-        private Image ciaWalk3Left = Image.FromFile(@"seperated sprites\AI\CIA\CIA3.png");
-        private Image ciaWalk4 = Image.FromFile(@"seperated sprites\AI\CIA\CIA4.png");
-        private Image ciaWalk4Left = Image.FromFile(@"seperated sprites\AI\CIA\CIA4.png");
-        private Image eliotWalk1 = Image.FromFile(@"seperated sprites\AI\Kid\K1.png");
-        private Image eliotWalk1Left = Image.FromFile(@"seperated sprites\AI\Kid\K1.png");
-        private Image eliotWalk2 = Image.FromFile(@"seperated sprites\AI\Kid\K2.png");
-        private Image eliotWalk2Left = Image.FromFile(@"seperated sprites\AI\Kid\K2.png");
-        private Image eliotWalk3 = Image.FromFile(@"seperated sprites\AI\Kid\K3.png");
-        private Image eliotWalk3Left = Image.FromFile(@"seperated sprites\AI\Kid\K3.png");
-        private Image eliotWalk4 = Image.FromFile(@"seperated sprites\AI\Kid\K4.png");
-        private Image eliotWalk4Left = Image.FromFile(@"seperated sprites\AI\Kid\K4.png");
-        private Image etDead = Image.FromFile(@"seperated sprites\E.T\ETDeath01.png");
-        private Image etFly1 = Image.FromFile(@"seperated sprites\E.T\ETStretch01.png");
-        private Image etFlyLeft1 = Image.FromFile(@"seperated sprites\E.T\ETStretch01.png");
-        private Image etFly2 = Image.FromFile(@"seperated sprites\E.T\ETStretch02.png");
-        private Image etFlyLeft2 = Image.FromFile(@"seperated sprites\E.T\ETStretch02.png");
-        private Image etFly3 = Image.FromFile(@"seperated sprites\E.T\ETStretch03.png");
-        private Image etFlyLeft3 = Image.FromFile(@"seperated sprites\E.T\ETStretch03.png");
-        private Image ship = Image.FromFile(@"seperated sprites\E.T\Ship\ETShip01.png");
-        private Image ship2 = Image.FromFile(@"seperated sprites\E.T\Ship\ETShip02.png");
-        private Image piece1 = Image.FromFile(@"seperated sprites\E.T\phonePieces\phonePiece01.png");
-        private Image piece2 = Image.FromFile(@"seperated sprites\E.T\phonePieces\phonePiece02.png");
-        private Image piece3 = Image.FromFile(@"seperated sprites\E.T\phonePieces\phonePiece03.png");
-        private Image uiPiece1 = Image.FromFile(@"seperated sprites\UI\Symbols\Collected1.png");
-        private Image uiPiece2 = Image.FromFile(@"seperated sprites\UI\Symbols\Collected2.png");
-        private Image uiPiece3 = Image.FromFile(@"seperated sprites\UI\Symbols\Collected3.png");
-        private Image uiCallElliott = Image.FromFile(@"seperated sprites\UI\Symbols\CallElliott.png");
-        private Image uiCallShip = Image.FromFile(@"seperated sprites\UI\Symbols\CallShip.png");
-        private Image uiEatCandy = Image.FromFile(@"seperated sprites\UI\Symbols\EatCandy.png");
-        private Image uiFindPhonePiece = Image.FromFile(@"seperated sprites\UI\Symbols\FindPhonePiece.png");
-        private Image uiLandingZone = Image.FromFile(@"seperated sprites\UI\Symbols\LandingZone.png");
-        private Image uiSendHumanBack = Image.FromFile(@"seperated sprites\UI\Symbols\SendHumansBack.png");
-        private Image uiArrowDown = Image.FromFile(@"seperated sprites\UI\Arrows\ArrowDown.png");
-        private Image uiArrowGoUp = Image.FromFile(@"seperated sprites\UI\Arrows\ArrowGoUp.png");
-        private Image uiArrowLeft = Image.FromFile(@"seperated sprites\UI\Arrows\ArrowLeft.png");
-        private Image uiArrowRight = Image.FromFile(@"seperated sprites\UI\Arrows\ArrowRight.png");
-        private Image uiArrowUp = Image.FromFile(@"seperated sprites\UI\Arrows\ArrowUp.png");
-        private Image uiTimer1 = Image.FromFile(@"seperated sprites\UI\Timer\Timer1.png");
-        private Image uiTimer2 = Image.FromFile(@"seperated sprites\UI\Timer\Timer2.png");
-        private Image uiTimer3 = Image.FromFile(@"seperated sprites\UI\Timer\Timer3.png");
-        private Image uiTimer4 = Image.FromFile(@"seperated sprites\UI\Timer\Timer4.png");
-        private Image uiTimer5 = Image.FromFile(@"seperated sprites\UI\Timer\Timer5.png");
-        private Image uiTimer6 = Image.FromFile(@"seperated sprites\UI\Timer\Timer6.png");
-        private Image uiTimer7 = Image.FromFile(@"seperated sprites\UI\Timer\Timer7.png");
-        private Image uiTimerFull = Image.FromFile(@"seperated sprites\UI\Timer\TimerFull.png");
-        private SoundPlayer etWalkSound = new SoundPlayer(@"Sounds\ETWalkies.wav");
-        private SoundPlayer eliotWalkSound = new SoundPlayer(@"Sounds\ETWalkies2.wav");
-        private SoundPlayer scientistWalkSound = new SoundPlayer(@"Sounds\EnemyWalk2.wav");
-        private SoundPlayer ciaWalkSound = new SoundPlayer(@"Sounds\EnemyWalk1.wav");
-        private SoundPlayer shipSound = new SoundPlayer(@"Sounds\EnemyWalk2.wav");
+        private Image etIdle = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETIdle.png"));
+        private Image etIdleLeft = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETIdle.png"));
+        private Image etWalk1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETWalk01.png"));
+        private Image etWalk1Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETWalk01.png"));
+        private Image etWalk2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETWalk02.png"));
+        private Image etWalk2Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETWalk02.png"));
+        private Image scientistWalk1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG1.png"));
+        private Image scientistWalk1Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG1.png"));
+        private Image scientistWalk2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG2.png"));
+        private Image scientistWalk2Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG2.png"));
+        private Image scientistWalk3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG3.png"));
+        private Image scientistWalk3Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG3.png"));
+        private Image scientistWalk4 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG4.png"));
+        private Image scientistWalk4Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG4.png"));
+        private Image scientistWalk5 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG5.png"));
+        private Image scientistWalk5Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "HatGuy", "HG5.png"));
+        private Image ciaWalk1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA1.png"));
+        private Image ciaWalk1Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA1.png"));
+        private Image ciaWalk2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA2.png"));
+        private Image ciaWalk2Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA2.png"));
+        private Image ciaWalk3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA3.png"));
+        private Image ciaWalk3Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA3.png"));
+        private Image ciaWalk4 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA4.png"));
+        private Image ciaWalk4Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "CIA", "CIA4.png"));
+        private Image eliotWalk1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K1.png"));
+        private Image eliotWalk1Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K1.png"));
+        private Image eliotWalk2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K2.png"));
+        private Image eliotWalk2Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K2.png"));
+        private Image eliotWalk3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K3.png"));
+        private Image eliotWalk3Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K3.png"));
+        private Image eliotWalk4 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K4.png"));
+        private Image eliotWalk4Left = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "AI", "Kid", "K4.png"));
+        private Image etDead = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETDeath01.png"));
+        private Image etFly1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch01.png"));
+        private Image etFlyLeft1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch01.png"));
+        private Image etFly2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch02.png"));
+        private Image etFlyLeft2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch02.png"));
+        private Image etFly3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch03.png"));
+        private Image etFlyLeft3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETStretch03.png"));
+        private Image ship = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "Ship", "ETShip01.png"));
+        private Image ship2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "Ship", "ETShip02.png"));
+        private Image piece1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "phonePieces", "phonePiece01.png"));
+        private Image piece2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "phonePieces", "phonePiece02.png"));
+        private Image piece3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "phonePieces", "phonePiece03.png"));
+        private Image uiPiece1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "Collected1.png"));
+        private Image uiPiece2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "Collected2.png"));
+        private Image uiPiece3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "Collected3.png"));
+        private Image uiCallElliott = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "CallElliott.png"));
+        private Image uiCallShip = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "CallShip.png"));
+        private Image uiEatCandy = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "EatCandy.png"));
+        private Image uiFindPhonePiece = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "FindPhonePiece.png"));
+        private Image uiLandingZone = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "LandingZone.png"));
+        private Image uiSendHumanBack = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Symbols", "SendHumansBack.png"));
+        private Image uiArrowDown = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Arrows", "ArrowDown.png"));
+        private Image uiArrowGoUp = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Arrows", "ArrowGoUp.png"));
+        private Image uiArrowLeft = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Arrows", "ArrowLeft.png"));
+        private Image uiArrowRight = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Arrows", "ArrowRight.png"));
+        private Image uiArrowUp = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Arrows", "ArrowUp.png"));
+        private Image uiTimer1 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer1.png"));
+        private Image uiTimer2 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer2.png"));
+        private Image uiTimer3 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer3.png"));
+        private Image uiTimer4 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer4.png"));
+        private Image uiTimer5 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer5.png"));
+        private Image uiTimer6 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer6.png"));
+        private Image uiTimer7 = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "Timer7.png"));
+        private Image uiTimerFull = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "UI", "Timer", "TimerFull.png"));
+
+        private SoundPlayer etWalkSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "ETWalkies.wav"));
+        private SoundPlayer eliotWalkSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "ETWalkies2.wav"));
+        private SoundPlayer scientistWalkSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "EnemyWalk2.wav"));
+        private SoundPlayer ciaWalkSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "EnemyWalk1.wav"));
+        private SoundPlayer shipSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "EnemyWalk2.wav"));
         private readonly Random random = new();
         protected Label et, phonePiece;
         private Label phone, zone, shipLabel, shipLabelFake, correctHole, timer, scientist, cia, eliot;
@@ -88,7 +89,8 @@ namespace MainCode{
         private bool phonePieceInPit, dead, specialing, telliporting, firstMove, threading, findingET, scientistOnFrame, running, ciaOnFrame, takingPhone;
         private Thread animation, falling, timerAnimation, scientistAction, ciaAction, eliotAction;
         private readonly Form game;
-        public Movement(Form g, PictureBox background, SceneHandler s){
+        private PictureBox background;
+        public Movement(Form g, PictureBox b, SceneHandler s){
             running = true;
             lives = 3;
             game = g;
@@ -100,6 +102,7 @@ namespace MainCode{
             telliporting = false;
             phonePieceInPit = false;
             findingET = true;
+            background = b;
             pitNumber = 0;
             timer = new Label{
                 Size = new Size(16, 8),
@@ -224,6 +227,28 @@ namespace MainCode{
             flyFrame = 1;
             piecesCollected = 0;
         }
+        private void CallPostGame(){
+            shipLabelFake.Image = null;
+            cia.Image = null;
+            scientist.Image = null;
+            shipLabel.Image = null;
+            shipLabel.Visible = false;
+            shipLabelFake.Visible = false;
+            scene.HideElements();
+            phone.Image = null;
+            phone.Visible = false;
+            timer.Image = null;
+            timer.Visible = false;
+            zone.Image = null;
+            zone.Visible = false;
+            scene.energyDisplay.Visible = false;
+            scene.reesesDisplay.Visible = false;
+            int score = scene.energy + (490 * scene.reeses);
+            PostGameMenu postGame = new();
+            running = false;
+            game.Refresh();
+            postGame.FirstRun(game, score, background);
+        }
         private void GameClosed(object sender, FormClosingEventArgs e){running = false;}
         public void WinAnimation(){
             threading = true;
@@ -239,11 +264,12 @@ namespace MainCode{
                     shipLabel.Location = new Point(shipLabelFake.Location.X, shipLabelFake.Location.Y);
                     shipLabelFake.Visible = false;
                     shipLabel.Visible = true;
-                    while(shipLabel.Location.Y > 0){
+                    while(shipLabel.Location.Y > 10){
                         shipLabel.Top -= 5;
                         Thread.Sleep(200);
                         shipSound.Play();
                     }
+                    game.Invoke(new Action(CallPostGame));
                 }
             });
             animation.Start();
@@ -302,7 +328,7 @@ namespace MainCode{
             timerAnimation.Start();
         }
         private void OnKeyDown(object sender, KeyEventArgs e){
-            if(!threading && findingET){
+            if(!threading && findingET && running){
                 if(firstMove) AiStarter();
                 firstMove = false;
                 if(scene.energy <= 0) dead = true;
@@ -315,9 +341,11 @@ namespace MainCode{
                         MoveFly();
                         specialing = true;
                     }
+                }else{ 
+                    et.Image = etDead;
+                    Thread.Sleep(5000);
+                    CallPostGame();
                 }
-                else et.Image = etDead;
-                
                 if(scene.energy <= 0) dead = true;
             }
         }

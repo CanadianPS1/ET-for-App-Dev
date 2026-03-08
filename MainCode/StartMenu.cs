@@ -11,14 +11,14 @@ namespace MainCode{
         private Button startButton;
         private SoundPlayer strSound;
         public StartMenu(){
-            startScreenIcon = Image.FromFile(@"seperated sprites\Screens\MainMenue.png");
-            //Icon gameIcon = new Icon(@"seperated sprites\E.T\ETIdle.png");
+            startScreenIcon = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "Screens", "MainMenue.png"));
+Icon gameIcon = new Icon(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "E.T", "ETIdle.ico"));
             game = new Form
             {
                 Text = "Extra Terrestrial"
             };
             game.SetBounds(700, 300, 325, 240);
-            //game.Icon = gameIcon;
+            game.Icon = gameIcon;
             game.Show();
             startButton = new Button
             {
@@ -29,7 +29,7 @@ namespace MainCode{
             game.Controls.Add(startButton);
             game.Refresh();
             startButton.Click += ActionPerformed;
-            strSound = new SoundPlayer(@"Sounds\MainMenu.wav");
+            strSound = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Sounds", "MainMenu.wav"));
             strSound.PlayLooping();
         }
         public void ActionPerformed(object sender, EventArgs e){
