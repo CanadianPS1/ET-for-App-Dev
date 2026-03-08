@@ -38,7 +38,7 @@ namespace MainCode{
             background.Size = new Size(320, 210);
             background.Visible = true;
             game = g;
-            energy = 1000;
+            energy = 9999;
             reeses = 0;
             reesesDisplay = new Label{
                 Size = new Size(10, 20),
