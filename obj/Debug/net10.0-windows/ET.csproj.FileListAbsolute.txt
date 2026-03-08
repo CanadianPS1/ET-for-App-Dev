@@ -12,3 +12,4 @@ C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\refint\
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.pdb
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.genruntimeconfig.cache
 C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ref\ET.dll
+C:\Users\spiel\documents\github\et-for-app-dev\obj\Debug\net10.0-windows\ET.sourcelink.json
