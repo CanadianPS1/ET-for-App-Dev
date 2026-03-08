@@ -177,7 +177,8 @@ namespace MainCode{
 
 
                     if(collection.AsQueryable().Any(doc => doc["name"] == usernameTextBox.Text)){
-                        if(File.ReadAllText(@"MainCode\users.txt").Contains(usernameTextBox.Text)){
+                        string usersFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "users.txt");
+                        if (File.ReadAllText(usersFile).Contains(usernameTextBox.Text)){
                             var userToUpdate = collection.AsQueryable().FirstOrDefault(d => d["name"] == usernameTextBox.Text);
                             if(userToUpdate["score"] < score){
                                 var filter = Builders<BsonDocument>.Filter.Eq("_id", userToUpdate["_id"]);
@@ -191,8 +192,9 @@ namespace MainCode{
                             break;
                         }
                     }else{
-                        if(!File.ReadAllText(@"MainCode\users.txt").Contains(usernameTextBox.Text)){
-                            File.WriteAllText(@"MainCode\users.txt", File.ReadAllText(@"MainCode\users.txt") + "\n" +usernameTextBox.Text);
+                        string usersFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "seperated sprites", "users.txt");
+                        if(!File.ReadAllText(usersFile).Contains(usernameTextBox.Text)){
+                            File.AppendAllText(usersFile, usernameTextBox.Text + Environment.NewLine);
                         }
                         collection.InsertOne(user);
                         submitedScore = true;

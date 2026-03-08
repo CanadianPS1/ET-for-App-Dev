@@ -84,6 +84,7 @@ C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\seperated sprites\UI\Timer\Timer6.png
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\seperated sprites\UI\Timer\Timer7.png
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\seperated sprites\UI\Timer\TimerFull.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\seperated sprites\users.txt
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\Sounds\EnemyWalk1.wav
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\Sounds\EnemyWalk2.wav
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Release\net10.0-windows\win-x64\publish\Sounds\ETwalk.wav

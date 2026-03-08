@@ -31,3 +31,85 @@ C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperat
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits02.png
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits03.png
 C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Screens\Pits04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\CIA\CIA1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\CIA\CIA2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\CIA\CIA3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\CIA\CIA4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\HatGuy\HG1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\HatGuy\HG2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\HatGuy\HG3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\HatGuy\HG4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\HatGuy\HG5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\Kid\K1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\Kid\K2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\Kid\K3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AI\Kid\K4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AlienThings\AlienThing1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AlienThings\AlienThing2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\AlienThings\AlienThing3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\EtDeath03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETdeath04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath05.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath06.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath07.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETDeath08.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETIdle.ico
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETIdle.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETStretch01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETStretch02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETStretch03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETWalk01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\ETWalk02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\PhonePieces\PhonePiece01.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\PhonePieces\PhonePiece02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\PhonePieces\PhonePiece03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip01.png
+C:\Users\spiel\documents\GitHub\et-for-app-dev\bin\Debug\net10.0-windows\E.T\Ship\ETShip01.png~
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip02.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip03.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip04.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip05.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\E.T\Ship\ETShip06.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\Pixel.ttf
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Arrows\ArrowDown.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Arrows\ArrowGoUp.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Arrows\ArrowLeft.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Arrows\ArrowRight.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Arrows\ArrowUp.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num0.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num6.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num7.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num8.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Numbers\num9.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\CallElliott.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\CallShip.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\Circle.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\Collected1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\Collected2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\Collected3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\EatCandy.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\FindPhonePiece.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\LandingZone.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\SendHumansBack.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Symbols\Smiley.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer1.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer2.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer3.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer4.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer5.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer6.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\Timer7.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\seperated sprites\UI\Timer\TimerFull.png
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\EnemyWalk1.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\EnemyWalk2.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\ETwalk.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\ETWalkies.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\ETWalkies2.wav
+C:\Users\spiel\documents\github\et-for-app-dev\bin\Debug\net10.0-windows\Sounds\MainMenu.wav
