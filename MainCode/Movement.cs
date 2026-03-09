@@ -899,7 +899,7 @@ namespace MainCode{
             takingPhone = true;
             ciaAction = new(() =>  {
                 while(running){
-                    if(!firstMove && !inPit){
+                    if(!firstMove && !inPit && !dead){
                         CheckOnScreen();
                         MoveCia();
                         if(ciaWalkFrame == 1){
@@ -959,7 +959,7 @@ namespace MainCode{
             findingET = true;
             scientistAction = new(() =>  {
                 while(running){
-                    if(!firstMove && !inPit){
+                    if(!firstMove && !inPit && !dead){
                         CheckOnScreen();
                         MoveScientist();
                         if(scientistWalkFrame == 1){

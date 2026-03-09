@@ -224,7 +224,7 @@ namespace MainCode{
             //telliport zones = 18 - 33
             for(int i = 0; i < 16; i++){
                 int x = random.Next(49,253);
-                int y = random.Next(29,135);
+                int y = random.Next(29,110);
                 int map = i + 1;
                 if(i >= 6) map = i % 6;
                 if(map == 0) map = 6;
