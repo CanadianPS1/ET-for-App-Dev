@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nbiCmCOTx8o=",
+  "dgSpecHash": "YaOAZdZCqwg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj",
+  "projectFilePath": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spiel\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\spiel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",

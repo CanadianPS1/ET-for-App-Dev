@@ -93,99 +93,6 @@
           "lib/net7.0/ZstdSharp.dll": {}
         }
       }
-    },
-    "net10.0-windows7.0/win-x64": {
-      "DnsClient/1.6.1": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/DnsClient.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0/DnsClient.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Microsoft.Extensions.Logging.Abstractions/2.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "MongoDB.Bson/3.7.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/MongoDB.Bson.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/MongoDB.Bson.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "MongoDB.Driver/3.7.0": {
-        "type": "package",
-        "dependencies": {
-          "DnsClient": "1.6.1",
-          "Microsoft.Extensions.Logging.Abstractions": "2.0.0",
-          "MongoDB.Bson": "3.7.0",
-          "SharpCompress": "0.30.1",
-          "Snappier": "1.0.0",
-          "ZstdSharp.Port": "0.7.3"
-        },
-        "compile": {
-          "lib/net6.0/MongoDB.Driver.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/MongoDB.Driver.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "SharpCompress/0.30.1": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/SharpCompress.dll": {}
-        },
-        "runtime": {
-          "lib/net5.0/SharpCompress.dll": {}
-        }
-      },
-      "Snappier/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/Snappier.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net5.0/Snappier.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "ZstdSharp.Port/0.7.3": {
-        "type": "package",
-        "compile": {
-          "lib/net7.0/ZstdSharp.dll": {}
-        },
-        "runtime": {
-          "lib/net7.0/ZstdSharp.dll": {}
-        }
-      }
     }
   },
   "libraries": {
@@ -331,11 +238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj",
+      "projectUniqueName": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj",
       "projectName": "ET",
-      "projectPath": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj",
+      "projectPath": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj",
       "packagesPath": "C:\\Users\\spiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\obj\\",
+      "outputPath": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -687,11 +594,6 @@
           "System.Xml.XPath": "(,4.3.32767]",
           "System.Xml.XPath.XDocument": "(,5.0.32767]"
         }
-      }
-    },
-    "runtimes": {
-      "win-x64": {
-        "#import": []
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj": {}
+    "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj": {
+    "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj",
+        "projectUniqueName": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj",
         "projectName": "ET",
-        "projectPath": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\ET.csproj",
+        "projectPath": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\ET.csproj",
         "packagesPath": "C:\\Users\\spiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spiel\\documents\\github\\et-for-app-dev\\obj\\",
+        "outputPath": "C:\\Users\\spiel\\Documents\\GitHub\\ET-for-App-Dev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -363,11 +363,6 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
